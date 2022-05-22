@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shwetabh!</h1>
-<h3 align="center">Learning and working on Frontend Projects.</h3>
+<h3 align="center">Music addict trying to understand how many tries it'd take for me to know what I'm doing with my code. </h3>
 
 <p align="left"> <a href="https://twitter.com/shwetabhNiket" target="blank"><img src="https://img.shields.io/twitter/follow/niketshwetabh?logo=twitter&style=for-the-badge" alt="niketshwetabh" /></a> </p>
 
