@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shwetabh!</h1>
 <h3 align="center">Learning and working on Frontend Projects.</h3>
 
-<p align="left"> <a href="https://twitter.com/niketShwetabh" target="blank"><img src="https://img.shields.io/twitter/follow/niketshwetabh?logo=twitter&style=for-the-badge" alt="niketshwetabh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shwetabhNiket" target="blank"><img src="https://img.shields.io/twitter/follow/niketshwetabh?logo=twitter&style=for-the-badge" alt="niketshwetabh" /></a> </p>
 
 - 🌱 I’m currently learning **React & VueJs**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/niketShwetabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niketshwetabh" height="30" width="40" /></a>
+<a href="https://twitter.com/shwetabhNiket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niketshwetabh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//in/niketshwetabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/niketshwetabh" height="30" width="40" /></a>
 <a href="https://instagram.com/niketshwetabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niketshwetabh" height="30" width="40" /></a>
 </p>
