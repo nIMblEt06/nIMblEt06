@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shwetabh!</h1>
 <h3 align="center">Learning and working on Frontend Projects.</h3>
 
-<p align="left"> <a href="https://twitter.com/niketshwetabh" target="blank"><img src="https://img.shields.io/twitter/follow/niketshwetabh?logo=twitter&style=for-the-badge" alt="niketshwetabh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/niketShwetabh" target="blank"><img src="https://img.shields.io/twitter/follow/niketshwetabh?logo=twitter&style=for-the-badge" alt="niketshwetabh" /></a> </p>
 
 - 🌱 I’m currently learning **React & VueJs**
 
