@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/shwetabhNiket" target="blank"><img src="https://img.shields.io/twitter/follow/niketshwetabh?logo=twitter&style=for-the-badge" alt="niketshwetabh" /></a> </p>
 
-- 🌱 I’m currently learning **React & VueJs**
+- 🌱 Proficient in **React & VueJs**, learning **Rust & Solidity** 
 
 - 📫 Reach me at **niketshwetabh@gmail.com**
 
-- ⚡ Fun fact **I skateboard. ;)**
+- ⚡ **WAGMI! 🚀. ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
