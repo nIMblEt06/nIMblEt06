@@ -3,10 +3,13 @@ name: generate snake animation
 on:
   schedule:
     - cron: "0 0 * * *" # runs every day at midnight utc
-  workflow_dispatch: # allow manual run
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
